@@ -1,0 +1,152 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly spec, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class spec.ArraySequencesSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    compare_arrays(Int32*, Int32*): PrivateScope, Public, HideBySig
+    Sample1_ArraySequences(): PrivateScope, Public, HideBySig
+    Real_ArraySequences1(): PrivateScope, Public, HideBySig
+    Real_ArraySequences2(): PrivateScope, Public, HideBySig
+    Real_ArraySequences3(): PrivateScope, Public, HideBySig
+    Real_ArraySequences4(): PrivateScope, Public, HideBySig
+    Real_ArraySequences5(): PrivateScope, Public, HideBySig
+    Real_ArraySequences6(): PrivateScope, Public, HideBySig
+    Real_ArraySequences7(): PrivateScope, Public, HideBySig
+    Real_ArraySequences8(): PrivateScope, Public, HideBySig
+    Real_ArraySequences9(): PrivateScope, Public, HideBySig
+    Real_ArraySequences10(): PrivateScope, Public, HideBySig
+    Real_ArraySequences11(): PrivateScope, Public, HideBySig
+    Real_ArraySequences12(): PrivateScope, Public, HideBySig
+Class spec.countGreaterNumbersSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    CGN_dateNotPresent(): PrivateScope, Public, HideBySig
+    CGN_lastDate(): PrivateScope, Public, HideBySig
+    CGN_sameDatesArray(): PrivateScope, Public, HideBySig
+    CGN_firstDate(): PrivateScope, Public, HideBySig
+    CGN_middleDate(): PrivateScope, Public, HideBySig
+Class spec.findSingleOccurenceNumberSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    FSON_nullCheck(): PrivateScope, Public, HideBySig
+    FSON_sortedArray(): PrivateScope, Public, HideBySig
+    FSON_unSortedArray(): PrivateScope, Public, HideBySig
+Class spec.mergeSortedArraysSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    compare(transaction*, transaction*, Int32): PrivateScope, Public, HideBySig
+    MSA_nullCheck(): PrivateScope, Public, HideBySig
+    MSA_sameArrays(): PrivateScope, Public, HideBySig
+    MSA_differentArrays(): PrivateScope, Public, HideBySig
+    MSA_commonElements(): PrivateScope, Public, HideBySig
+Class spec.NWarSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    CompareArraysSpecP4(Int32*, Int32*, Int32): PrivateScope, Public, HideBySig
+    CompareIntSpecP4(Int32, Int32): PrivateScope, Public, HideBySig
+    NWarSample1_TestCase(): PrivateScope, Public, HideBySig
+    NWarSample2_TestCase(): PrivateScope, Public, HideBySig
+    NWarSample3_TestCase(): PrivateScope, Public, HideBySig
+    NWar1_TestCase(): PrivateScope, Public, HideBySig
+    NWar2_TestCase(): PrivateScope, Public, HideBySig
+    NWar3_TestCase(): PrivateScope, Public, HideBySig
+    NWar4_TestCase(): PrivateScope, Public, HideBySig
+    NWar5_TestCase(): PrivateScope, Public, HideBySig
+    NWar6_TestCase(): PrivateScope, Public, HideBySig
+    NWar7_TestCase(): PrivateScope, Public, HideBySig
+    NWar8_TestCase(): PrivateScope, Public, HideBySig
+    NWar9_TestCase(): PrivateScope, Public, HideBySig
+    NWar10_TestCase(): PrivateScope, Public, HideBySig
+    NWar11_TestCase(): PrivateScope, Public, HideBySig
+    NWar12_TestCase(): PrivateScope, Public, HideBySig
+    NWar13_TestCase(): PrivateScope, Public, HideBySig
+    runLargeTestCase(): PrivateScope, Public, HideBySig
+    NWar14_TestCase(): PrivateScope, Public, HideBySig
+    NWar15_TestCase(): PrivateScope, Public, HideBySig
+    NWar16_TestCase(): PrivateScope, Public, HideBySig
+    NWar17_TestCase(): PrivateScope, Public, HideBySig
+    NWar18_TestCase(): PrivateScope, Public, HideBySig
+    runLargeTestCase2(): PrivateScope, Public, HideBySig
+    NWar19_TestCase(): PrivateScope, Public, HideBySig
+    NWar20_TestCase(): PrivateScope, Public, HideBySig
+    NWar21_TestCase(): PrivateScope, Public, HideBySig
+    NWar22_TestCase(): PrivateScope, Public, HideBySig
+Class spec.PHeightsSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    CompareArraysSpec(Int32*, Int32*, Int32): PrivateScope, Public, HideBySig
+    PHeightsSample1_TestCase(): PrivateScope, Public, HideBySig
+    PHeightsSample2_TestCase(): PrivateScope, Public, HideBySig
+    PHeightsSample3_TestCase(): PrivateScope, Public, HideBySig
+    PHeights_TestCase(): PrivateScope, Public, HideBySig
+    PHeights2_TestCase(): PrivateScope, Public, HideBySig
+    PHeights3_TestCase(): PrivateScope, Public, HideBySig
+    PHeights4_TestCase(): PrivateScope, Public, HideBySig
+    PHeights5_TestCase(): PrivateScope, Public, HideBySig
+    PHeights6_TestCase(): PrivateScope, Public, HideBySig
+    PHeights7_TestCase(): PrivateScope, Public, HideBySig
+    PHeights8_TestCase(): PrivateScope, Public, HideBySig
+    PHeights9_TestCase(): PrivateScope, Public, HideBySig
+    PHeights10_TestCase(): PrivateScope, Public, HideBySig
+    PHeights11_TestCase(): PrivateScope, Public, HideBySig
+    PHeights12_TestCase(): PrivateScope, Public, HideBySig
+    runLargeTestCaseP3(): PrivateScope, Public, HideBySig
+    runLargeAscTestCaseP3(): PrivateScope, Public, HideBySig
+    runLargeDescTestCaseP3(): PrivateScope, Public, HideBySig
+    PHeights13_TestCase(): PrivateScope, Public, HideBySig
+    PHeights16_TestCase(): PrivateScope, Public, HideBySig
+    PHeights17_TestCase(): PrivateScope, Public, HideBySig
+    PHeights18_TestCase(): PrivateScope, Public, HideBySig
+    PHeights19_TestCase(): PrivateScope, Public, HideBySig
+    PHeights20_TestCase(): PrivateScope, Public, HideBySig
+    PHeights21_TestCase(): PrivateScope, Public, HideBySig
+    PHeights22_TestCase(): PrivateScope, Public, HideBySig
+    PHeights23_TestCase(): PrivateScope, Public, HideBySig
+    PHeights24_TestCase(): PrivateScope, Public, HideBySig
+Class spec.sortedArraysCommonElementsSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    compare(transaction*, transaction*, Int32): PrivateScope, Public, HideBySig
+    SACE_NullCheck(): PrivateScope, Public, HideBySig
+    SACE_noCommonElements(): PrivateScope, Public, HideBySig
+    SACE_sameArray(): PrivateScope, Public, HideBySig
+    SACE_radomCommonElements(): PrivateScope, Public, HideBySig
